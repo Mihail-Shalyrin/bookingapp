@@ -1,0 +1,17 @@
+# Java / Spring Boot
+backend/target/
+*.class
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# прочее
+.env
+*.log
